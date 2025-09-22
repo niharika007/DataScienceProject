@@ -1,0 +1,21 @@
+Metadata-Version: 2.4
+Name: datascienceproject
+Version: 0.1.0
+Summary: A simple data science project
+Home-page: https://github.com/USERNAME/DataScienceProject
+Author: Niharika Jain
+Author-email: niharikaflyhigh@gmail.com
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: seaborn
+Dynamic: author
+Dynamic: author-email
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
