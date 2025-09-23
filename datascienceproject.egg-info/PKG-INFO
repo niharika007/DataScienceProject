@@ -12,6 +12,7 @@ Requires-Dist: pandas
 Requires-Dist: matplotlib
 Requires-Dist: scikit-learn
 Requires-Dist: seaborn
+Requires-Dist: dill
 Dynamic: author
 Dynamic: author-email
 Dynamic: description-content-type
