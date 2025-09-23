@@ -1,4 +1,6 @@
 # Ignore virtual environment
+.artifacts
+.env
+env/
+.venv
 venv/
-.venv/
-
