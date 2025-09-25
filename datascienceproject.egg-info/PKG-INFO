@@ -15,6 +15,7 @@ Requires-Dist: seaborn
 Requires-Dist: dill
 Requires-Dist: catboost
 Requires-Dist: xgboost
+Requires-Dist: Flask
 Dynamic: author
 Dynamic: author-email
 Dynamic: description-content-type
