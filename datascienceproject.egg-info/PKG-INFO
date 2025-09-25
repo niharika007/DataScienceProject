@@ -13,6 +13,8 @@ Requires-Dist: matplotlib
 Requires-Dist: scikit-learn
 Requires-Dist: seaborn
 Requires-Dist: dill
+Requires-Dist: catboost
+Requires-Dist: xgboost
 Dynamic: author
 Dynamic: author-email
 Dynamic: description-content-type
